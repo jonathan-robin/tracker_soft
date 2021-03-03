@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vYNX1sbZ4d9C1O5leeOmmMCty4B5zLVw0BWohnHEMuG7I0uDV06iomfl6e6CDG6YJZz/6b+UHs71PoTyuF6rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r\\track3r.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnet.webapi.selfhost\\5.2.7\\microsoft.aspnet.webapi.selfhost.5.2.7.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\system.management.automation\\6.0.4\\system.management.automation.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
