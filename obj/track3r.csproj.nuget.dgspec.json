@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r\\track3r.csproj": {}
+    "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r - Copie\\track3r.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r\\track3r.csproj": {
+    "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r - Copie\\track3r.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r\\track3r.csproj",
+        "projectUniqueName": "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r - Copie\\track3r.csproj",
         "projectName": "track3r",
-        "projectPath": "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r\\track3r.csproj",
+        "projectPath": "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r - Copie\\track3r.csproj",
         "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r\\obj\\",
+        "outputPath": "C:\\Users\\Jonathan\\source\\repos\\track3r\\track3r - Copie\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
